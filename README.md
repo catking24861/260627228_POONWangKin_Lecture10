@@ -1,4 +1,5 @@
 Look your Right "Releases" you can download App
+
 App : Bingogame
 In Android Studio -> Open -> Select Folder (Bingogame)-> Play
 Login
