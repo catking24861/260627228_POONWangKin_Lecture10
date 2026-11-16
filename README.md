@@ -1,1 +1,7 @@
-# 260627228_POONWangKin_Lecture10
+App : Bingogame
+In Android Studio -> Open -> Select Folder (Bingogame)-> Play
+Login
+USER:Admin
+PASSWORD:123456
+
+last update:26/11/2026 15:50
